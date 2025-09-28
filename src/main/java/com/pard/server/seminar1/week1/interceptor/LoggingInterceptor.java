@@ -1,4 +1,4 @@
-package com.pard.server.seminar1.interceptor;
+package com.pard.server.seminar1.week1.interceptor;
 
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;

@@ -1,4 +1,4 @@
-package com.pard.server.seminar1.restcontroller;
+package com.pard.server.seminar1.week1.restcontroller;
 
 import org.springframework.web.bind.annotation.*;
 

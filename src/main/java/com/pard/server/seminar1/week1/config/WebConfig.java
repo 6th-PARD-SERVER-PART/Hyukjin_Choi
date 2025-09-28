@@ -1,6 +1,6 @@
-package com.pard.server.seminar1.config;
+package com.pard.server.seminar1.week1.config;
 
-import com.pard.server.seminar1.interceptor.LoggingInterceptor;
+import com.pard.server.seminar1.week1.interceptor.LoggingInterceptor;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.InterceptorRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;

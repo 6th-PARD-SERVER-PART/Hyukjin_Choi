@@ -1,4 +1,4 @@
-package com.pard.server.seminar1.pathvariable;
+package com.pard.server.seminar1.week1.pathvariable;
 
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;

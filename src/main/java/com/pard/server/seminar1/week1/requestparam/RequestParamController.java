@@ -1,4 +1,4 @@
-package com.pard.server.seminar1.requestparam;
+package com.pard.server.seminar1.week1.requestparam;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;

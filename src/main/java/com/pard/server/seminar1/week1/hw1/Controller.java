@@ -1,4 +1,4 @@
-package com.pard.server.seminar1.hw1;
+package com.pard.server.seminar1.week1.hw1;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
