@@ -28,8 +28,8 @@ public class MemberController {
         return memberService.findById(studentId);
     }
 
-    @GetMapping("/{studentId}/nameAndAge")
-    public MemberDetailEmailResponse findByEmail(@PathVariable Long studentId) {
+    @GetMapping("/{studentId}/email")
+    public MemberDetailEmailResponse findEmailById(@PathVariable Long studentId) {
         return memberService.findEmailById(studentId);
     }
 
