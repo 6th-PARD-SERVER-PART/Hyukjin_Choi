@@ -1,9 +1,9 @@
-package com.pard.server.seminar1.week2.service;
+package com.pard.server.seminar1.week2.inclass.service;
 
-import com.pard.server.seminar1.week2.dto.UserDto;
-import com.pard.server.seminar1.week2.dto.UserResponseDto;
-import com.pard.server.seminar1.week2.entity.User;
-import com.pard.server.seminar1.week2.repository.UserRepository;
+import com.pard.server.seminar1.week2.inclass.dto.UserDto;
+import com.pard.server.seminar1.week2.inclass.dto.UserResponseDto;
+import com.pard.server.seminar1.week2.inclass.entity.User;
+import com.pard.server.seminar1.week2.inclass.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

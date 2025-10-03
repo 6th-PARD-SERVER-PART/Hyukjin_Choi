@@ -1,4 +1,4 @@
-package com.pard.server.seminar1.week2.entity;
+package com.pard.server.seminar1.week2.inclass.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

@@ -1,8 +1,8 @@
-package com.pard.server.seminar1.week2.controller;
+package com.pard.server.seminar1.week2.inclass.controller;
 
-import com.pard.server.seminar1.week2.dto.UserDto;
-import com.pard.server.seminar1.week2.dto.UserResponseDto;
-import com.pard.server.seminar1.week2.service.UserService;
+import com.pard.server.seminar1.week2.inclass.dto.UserDto;
+import com.pard.server.seminar1.week2.inclass.dto.UserResponseDto;
+import com.pard.server.seminar1.week2.inclass.service.UserService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 
@@ -10,7 +10,7 @@ import java.util.List;
 
 @RestController
 @RequiredArgsConstructor
-@RequestMapping("/user")
+@RequestMapping("wk2/class/user")
 public class UserController {
     private final UserService userService;
 

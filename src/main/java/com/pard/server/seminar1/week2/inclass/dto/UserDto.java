@@ -1,4 +1,4 @@
-package com.pard.server.seminar1.week2.dto;
+package com.pard.server.seminar1.week2.inclass.dto;
 
 import lombok.*;
 

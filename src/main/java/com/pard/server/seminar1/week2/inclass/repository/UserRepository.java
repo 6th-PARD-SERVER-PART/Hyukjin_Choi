@@ -1,6 +1,6 @@
-package com.pard.server.seminar1.week2.repository;
+package com.pard.server.seminar1.week2.inclass.repository;
 
-import com.pard.server.seminar1.week2.entity.User;
+import com.pard.server.seminar1.week2.inclass.entity.User;
 import org.springframework.stereotype.Repository;
 
 import java.util.HashMap;
