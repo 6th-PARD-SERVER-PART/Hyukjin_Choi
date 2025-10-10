@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-@RestController
+//@RestController
 @RequiredArgsConstructor
 @RequestMapping("wk2/class/user")
 public class UserController {
